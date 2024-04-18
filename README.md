@@ -1,5 +1,15 @@
 # End-to-End-NLP-Project
 
+
+# Projects Workflows
+
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline 
+- app.py 
+
 ## How to run?
 
 ```bash
