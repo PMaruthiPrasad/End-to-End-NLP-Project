@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 project_name='hate'
 list_of_files = [
                  f"{project_name}/components/__init__.py",
-                 f"{project_name}/components/dara_ingestion.py.py",
+                 f"{project_name}/components/dara_ingestion.py",
                  f"{project_name}/components/data_transormation.py",
                  f"{project_name}/components/model_trainer.py",
                  f"{project_name}/components/model_evaluation.py",
